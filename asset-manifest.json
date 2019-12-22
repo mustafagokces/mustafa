@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mustafa/static/css/main.4b1706d4.chunk.css",
+    "main.js": "/mustafa/static/js/main.9df15ab9.chunk.js",
+    "main.js.map": "/mustafa/static/js/main.9df15ab9.chunk.js.map",
+    "runtime-main.js": "/mustafa/static/js/runtime-main.69772168.js",
+    "runtime-main.js.map": "/mustafa/static/js/runtime-main.69772168.js.map",
+    "static/js/2.ebd47c15.chunk.js": "/mustafa/static/js/2.ebd47c15.chunk.js",
+    "static/js/2.ebd47c15.chunk.js.map": "/mustafa/static/js/2.ebd47c15.chunk.js.map",
+    "index.html": "/mustafa/index.html",
+    "precache-manifest.16103f03bb642b7bea796564e117e826.js": "/mustafa/precache-manifest.16103f03bb642b7bea796564e117e826.js",
+    "service-worker.js": "/mustafa/service-worker.js",
+    "static/css/main.4b1706d4.chunk.css.map": "/mustafa/static/css/main.4b1706d4.chunk.css.map",
+    "static/js/2.ebd47c15.chunk.js.LICENSE": "/mustafa/static/js/2.ebd47c15.chunk.js.LICENSE",
+    "static/media/logo.svg": "/mustafa/static/media/logo.daf862a7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69772168.js",
+    "static/js/2.ebd47c15.chunk.js",
+    "static/css/main.4b1706d4.chunk.css",
+    "static/js/main.9df15ab9.chunk.js"
+  ]
+}
